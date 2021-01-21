@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "money-tracker-ae0fe": {
+      "hosting": {
+        "money": [
+          "money-tracker-ae0fe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "money-tracker-ae0fe"
+  }
+}
